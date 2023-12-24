@@ -3,7 +3,7 @@ This repository contains projects that demonstrate my programming expertise rang
 ## 1. Adventure Game
 ## 2. Breakout Game
 - Arcade-style Breakout game where the player uses a paddle to control the movement of a ball and hit bricks.
-<p align="center"> 
+<p align="left"> 
 <img src="breakout_game/breakout.png" width="200">
 </p>  
 
