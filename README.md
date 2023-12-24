@@ -6,6 +6,7 @@ This repository contains projects ranging from classic games to cryptographic sy
 <p align="center"> 
 <img src="breakout.png">
 </p>  
+
 ## 3. Enigma Machine
 ## 4. Flutterer
 ## 5. Generate Random Sentences
