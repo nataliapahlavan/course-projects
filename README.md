@@ -2,16 +2,19 @@
 This repository contains projects that demonstrate my programming expertise ranging from classic games to cryptographic systems.
 ## 1. Adventure Game
 ## 2. Breakout Game
-- Arcade-style Breakout game where the player uses a paddle to control the movement of a ball and hit bricks.
-<p align="left"> 
+- Arcade-style Breakout game where the player uses a paddle to control the movement of a ball and hit bricks
+- Player is allowed three tries
+- Player wins when all bricks are hit with the ball
+<p align="center"> 
 <img src="breakout_game/breakout.png" width="200">
 </p>  
 
 ## 3. Enigma Machine
-- An implementation of the Enigma machine, a cipher device used during World War II. The simulation encrypts and decrypts messages, making it difficult to crack codes.
+- An implementation of the Enigma machine, a cipher device used during World War II. The simulation encrypts and decrypts messages, making it difficult to crack codes
 <p align="center"> 
-<img src="enigma_machine/enigma.png" width="200">
+<img src="enigma_machine/enigma.png" width="400">
 </p> 
+
 ## 4. Flutterer
 ## 5. Generate Random Sentences
 ## 6. Match the Flag
