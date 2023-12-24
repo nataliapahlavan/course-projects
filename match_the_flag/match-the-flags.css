@@ -1,0 +1,42 @@
+/*
+ * File: match-the-flag.css
+ * ------------------------
+ * Defines rigid styles for the two primary HTML
+ * elements type of the application.  These styles
+ * are imposed to symplify the logic of the game.
+ */
+
+/*
+ *
+ */
+body {
+   text-align: center;
+}
+
+/*
+ * Dictates the width and height of the primary div where
+ * all images are embedded.
+ */
+div {
+   outline: 1px;
+   width: 304px;
+   height: 302px;
+   margin: 2px;
+   padding-top: 2px;
+   display: inline-block;
+}
+
+/*
+ * Dictates the width and height of all images in
+ * our Match the Flag.  There are many images in
+ * the game of Match the Flag, but all of them
+ * are the same size, and the dimensions in the
+ * div and img rules are perfectly crafted so that
+ * 16 images are laid down in a 4x4 grid.
+ */
+img {
+   width: 72px;
+   height: 72px;
+   padding-left: 2px;
+   padding-right: 2px;
+}
