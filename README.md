@@ -4,7 +4,7 @@ This repository contains projects ranging from classic games to cryptographic sy
 ## 2. Breakout Game
 - Arcade-style Breakout game where the player uses a paddle to control the movement of a ball and hit bricks.
 <p align="center"> 
-<img src="breakout_game/breakout.png">
+<img src="breakout_game/breakout.png" width="200">
 </p>  
 
 ## 3. Enigma Machine
