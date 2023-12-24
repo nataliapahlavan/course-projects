@@ -16,6 +16,12 @@ This repository contains projects that demonstrate my programming expertise rang
 </p> 
 
 ## 4. Flutterer
+- Social network that mirrors the design of Twitter using client (JavaScript) and server (Python) programming
+- Home page displays floots ("tweets") made by the user and their friends and allows for communication between floots
+<p align="center"> 
+<img src="flutterer/flutterer.png" width="400">
+</p>  
+
 ## 5. Generate Random Sentences
 ## 6. Match the Flag
 ## 7. Reassemble Fragments
