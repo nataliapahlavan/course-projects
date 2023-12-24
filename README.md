@@ -1,2 +1,2 @@
-# course-projects
-## breakout
+# Course Projects
+## Breakout Game
