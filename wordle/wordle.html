@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Wordle</title>
+  <meta charset="UTF-8">
+  <script type="text/javascript" src="https://cs106ax.stanford.edu/jslib/JSGraphics.js"></script>
+  <script type="text/javascript" src="https://cs106ax.stanford.edu/jslib/RandomLib.js"></script>
+
+  <script type="text/javascript" src="dictionaries/Common.js"></script>
+  <script type="text/javascript" src="dictionaries/Dictionary.js"></script>
+  <script type="text/javascript" src="GKeyboard.js"></script>
+  <script type="text/javascript" src="Wordle.js"></script>
+  <style>
+    html {
+      min-width: 95vw;
+      min-height: 95vh;
+      background-color: #121213;
+    }
+
+    body {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+
+    canvas {
+      outline: 1px solid #FFF !important;
+    }
+
+  </style>
+</head>
+
+<body onload="Wordle()"></body>
+
+</html>
