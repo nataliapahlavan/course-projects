@@ -53,6 +53,10 @@ This repository contains projects that demonstrate my programming expertise rang
 - Reconstructs words from fragmented text by finding overlapping fragments
 - Engineered and optimized to efficiently handle large text files
 - Useful for data recovery, genomic sequencing, natural language processing, etc.
+<p align="center"> 
+<img src="reassemble_fragments/reassembled.png" width="400">
+</p> 
+
 ## 8. Wordle
 - Implementation of the popular New York Times game Wordle where a player is given six attempts to guess a five-letter word
 - The feedback (tile colors) from each guess provides the player with information to improve their guesses
