@@ -7,7 +7,7 @@ This repository contains projects that demonstrate my programming expertise rang
 - Some rooms have objects hidden within them which are depicted in the interface for that room. If you see an object that you want to collect, click on it, and it will disappear from the room, becoming part of your inventory. To view the objects in your inventory, click on the inventory button in the interface. If you want to drop an object in your inventory, open your inventory, click on the object, then click somewhere else in the window to drop it
 - If you prefer the terminal, you can type in "TAKE" or "DROP" to interact with the objects. Type "INVENTORY" to see what objects you're carrying, "LOOK" to reprint a detailed description of where you are, or "QUIT" to end your adventure.
 <p align="center"> 
-<img src="adventure_game/adventure_room.png" width="400">
+<img src="adventure_game/adventure_room.png" width="600">
 </p>  
 
 ## 2. Breakout Game
