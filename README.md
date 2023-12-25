@@ -40,6 +40,6 @@ This repository contains projects that demonstrate my programming expertise rang
 - Implementation of the popular New York Times game Wordle where a player is given six attempts to guess a five-letter word
 - The feedback (tile colors) from each guess provides the player with information to improve their guesses
 <p align="center"> 
-<img src="wordle/wordle.png" width="400">
+<img src="wordle/wordle.png" width="200">
 </p>  
 
