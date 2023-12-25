@@ -1,4 +1,4 @@
-# Course Projects List
+# Project Portfolio List
 This repository contains projects that demonstrate my programming expertise ranging from classic games to cryptographic systems.
 ## 1. Adventure Game
 - A text-based game where the player navigates through a series of rooms given room descriptions and collects objects along the way. For each room that you enter, the interface shows you an image of the room so you can better visualize your adventure. The interface shows all possible directions you can move in with arrows on the screen:
