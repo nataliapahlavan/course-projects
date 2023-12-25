@@ -24,6 +24,21 @@ This repository contains projects that demonstrate my programming expertise rang
 
 ## 5. Generate Random Sentences
 ## 6. Match the Flag
+- Game that challenges the user to match flags from memory
+<p align="left"> 
+<img src="match_the_flag/no_match.png" width="400">
+</p>  
+<p align="center"> 
+<img src="match_the_flag/match.png" width="400">
+</p>  
+<p align="center"> 
+<img src="match_the_flag/matched.png" width="400">
+</p> 
 ## 7. Reassemble Fragments
 ## 8. Wordle
+- Implementation of the popular New York Times game Wordle where a player is given six attempts to guess a five-letter word
+- The feedback (tile colors) from each guess provides the player with information to improve their guesses
+<p align="center"> 
+<img src="wordle/wordle.png" width="400">
+</p>  
 
