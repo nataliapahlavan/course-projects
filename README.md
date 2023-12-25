@@ -15,7 +15,7 @@ This repository contains projects that demonstrate my programming expertise rang
 - Player is allowed three tries
 - Player wins when all bricks are hit with the ball
 <p align="center"> 
-<img src="breakout_game/breakout.png" width="400">
+<img src="breakout_game/breakout.png" width="200">
 </p>  
 
 ## 3. Enigma Machine
