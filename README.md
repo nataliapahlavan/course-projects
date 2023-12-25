@@ -25,7 +25,7 @@ This repository contains projects that demonstrate my programming expertise rang
 ## 5. Generate Random Sentences
 ## 6. Match the Flag
 - Game that challenges the user to match flags from memory
-<p align="left"> 
+<p align="center"> 
 <img src="match_the_flag/no_match.png" width="200">
 </p>  
 <p align="center"> 
