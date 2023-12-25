@@ -26,14 +26,15 @@ This repository contains projects that demonstrate my programming expertise rang
 ## 6. Match the Flag
 - Game that challenges the user to match flags from memory
 <p align="left"> 
-<img src="match_the_flag/no_match.png" width="400">
+<img src="match_the_flag/no_match.png" width="200">
 </p>  
 <p align="center"> 
-<img src="match_the_flag/match.png" width="400">
+<img src="match_the_flag/match.png" width="200">
 </p>  
 <p align="center"> 
-<img src="match_the_flag/matched.png" width="400">
+<img src="match_the_flag/matched.png" width="200">
 </p> 
+
 ## 7. Reassemble Fragments
 ## 8. Wordle
 - Implementation of the popular New York Times game Wordle where a player is given six attempts to guess a five-letter word
