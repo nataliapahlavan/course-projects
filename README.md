@@ -1,20 +1,13 @@
 # Course Projects List
 This repository contains projects that demonstrate my programming expertise ranging from classic games to cryptographic systems.
 ## 1. Adventure Game
-- A text-based game where the player navigates through a series of rooms given room descriptions and collects objects along the way
-- For each room that you enter, the interface shows you an image of the room so you can better visualize your adventure
-- The interface shows all possible directions you can move in with arrows on the screen representing
+- A text-based game where the player navigates through a series of rooms given room descriptions and collects objects along the way. For each room that you enter, the interface shows you an image of the room so you can better visualize your adventure. The interface shows all possible directions you can move in with arrows on the screen:
 - If an arrow is gray, that is not a valid passage for this room. If an arrow is pink, that is a valid passage, and you can type the corresponding direction into the terminal to move
-- In addition to the direction arrows, there are also various action words for different rooms such as WATER, WAVE, JUMP, etc. that appear as buttons at the bottom of the interface
-- Some rooms also have various objects hidden within them which are depicted in the interface for that room
-- If you see an object that you want to collect, click on it, and it will disappear from the room, becoming part of your inventory
-- To view the objects in your inventory, click on the inventory button in the interface
-- If you want to drop an object in your inventory, open your inventory, click on the object, then click somewhere else in the window to drop it
-- If you prefer the terminal, you can type in TAKE or DROP to interact with the objects
-- Type INVENTORY to see what objects you're carrying, LOOK to reprint a detailed description of where you are, or QUIT to end your adventure
-- Below is an example of the first room
+- There are various action words for different rooms such as "WATER", "WAVE", "JUMP", etc. which appear as buttons at the bottom of the interface
+- Some rooms have objects hidden within them which are depicted in the interface for that room. If you see an object that you want to collect, click on it, and it will disappear from the room, becoming part of your inventory. To view the objects in your inventory, click on the inventory button in the interface. If you want to drop an object in your inventory, open your inventory, click on the object, then click somewhere else in the window to drop it
+- If you prefer the terminal, you can type in "TAKE" or "DROP" to interact with the objects. Type "INVENTORY" to see what objects you're carrying, "LOOK" to reprint a detailed description of where you are, or "QUIT" to end your adventure.
 <p align="center"> 
-<img src="adventure_game/adventure_room.png" width="200">
+<img src="adventure_game/adventure_room.png" width="400">
 </p>  
 ## 2. Breakout Game
 - Arcade-style Breakout game where the player uses a paddle to control the movement of a ball and hit bricks
