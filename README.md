@@ -33,6 +33,10 @@ This repository contains projects that demonstrate my programming expertise rang
 
 ## 5. Generate Random Sentences
 - Creates random sentences from a context-free grammar to form poems and other statements
+<p align="center"> 
+<img src="generate_random_sentences/generated.png" width="400">
+</p> 
+
 ## 6. Match the Flag
 - Game that challenges the user to match flags from memory
 <p align="center"> 
